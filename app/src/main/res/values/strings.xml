@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Exomind Meteo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">Exomind \n Test Technique</string>
+
+
+    <string name="waiting_msg1">Nous téléchargeons les données…</string>
+    <string name="waiting_msg2">C’est presque fini…</string>
+    <string name="waiting_msg3">Plus que quelques secondes avant d’avoir le résultat…</string>
+
+    <string name="celsius">%s C</string>
+    <string name="termine">Terminé!</string>
+    <string name="recommencer">Recommencer</string>
+    <string name="demarer">Démarer</string>
+    <string name="nuage">Nuage</string>
+    <string name="temperature">Temperature</string>
+    <string name="ville">Ville</string>
+
+
+    <string-array name="waiting_list">
+        <item>@string/waiting_msg1</item>
+        <item>@string/waiting_msg2</item>
+        <item>@string/waiting_msg3</item>
+    </string-array>
+
+</resources>
